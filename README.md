@@ -100,23 +100,19 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
 
 ### 🐾 AdoptNow
 
-Aplicación para la adopción simbólica de animales, permitiendo contribuir a su preservación mediante donaciones económicas.
-
-#### ✨ Tareas realizadas
+Aplicación para la adopción simbólica de animales, contribuyendo a su preservación mediante donaciones económicas.
 
 🔐 Inicio de sesión, gestión de usuarios y cambio de contraseña<br>
 📧 Envío de correos electrónicos mediante Gmail y contraseñas de aplicación<br>
 📂 Subida de documentos en múltiples formatos / Generación y descarga de documentos PDF <br>
-🗃️ Operaciones CRUD <br>
 ✅ Control visual del estado de adopción<br>
+🗃️ Operaciones CRUD <br>
 
 <br>
 
 ### 📊 Proyecto CRM
 
 Sistema orientado a la gestión empresarial y automatización de procesos.
-
-#### ✨ Tareas realizadas
 
 ⚙️ Módulo de automatizaciones<br>
 📄 Gestor de documentos<br>
@@ -127,9 +123,7 @@ Sistema orientado a la gestión empresarial y automatización de procesos.
 
 ### 🌐 Fix & Fit
 
-Mantenimiento, actualización y mejora de la web corporativa.
-
-#### ✨ Tareas realizadas
+Mantenimiento, actualización y mejora de la web.
 
 🛠️ Corrección de errores y mantenimiento general<br>
 🎨 Mejoras visuales y de experiencia de usuario<br>
