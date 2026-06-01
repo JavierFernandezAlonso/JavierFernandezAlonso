@@ -1,27 +1,41 @@
-# ¡Hola! 👋 Soy Javier Fernández Alonso
+<div align="center">
+
+  # ¡Hola! 👋 Soy Javier Fernández Alonso
 
 <div align="center">
 
-### 💻 Desarrollador Junior
-
-Apasionado por el desarrollo de software, las tecnologías web, la automatización y el desarrollo de videojuegos.
+### 💻 Junior Developer
+### 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 </div>
 
----
 
 ## 🚀 Sobre mí
 
 Soy un Desarrollador Junior enfocado en crear soluciones prácticas y seguir aprendiendo nuevas tecnologías cada día.
 
-- 💻 Desarrollo de aplicaciones web y de escritorio.
-- 🌐 Experiencia en tecnologías frontend y backend.
-- 📱 Interés por el desarrollo móvil.
-- 🎮 Formación en desarrollo de videojuegos con Unity.
-- 🐳 Familiarizado con entornos virtualizados y contenedores.
-- 🚀 Motivado por el aprendizaje continuo y los nuevos retos tecnológicos.
+Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM), donde continúo ampliando mis conocimientos en programación, bases de datos, desarrollo de software y tecnologías orientadas al entorno profesional.
 
----
+
+## 🧩 Áreas de Trabajo
+
+<div align="center">
+
+|                                                                 |
+| :-------------------------------------------------------------: |
+|        💻 Desarrollo de aplicaciones web y de escritorio        |
+|                 🌐 Desarrollo Frontend y Backend                |
+|      ⚡ Diseño e implementación de APIs REST y servicios web     |
+|              📱 Desarrollo de aplicaciones móviles              |
+|                  ☕ Programación con Java y PHP                  |
+|       🗄️ Gestión y administración de bases de datos MySQL      |
+|    ⚛️ Desarrollo de aplicaciones modernas con React y Node.js   |
+|              🎮 Desarrollo de videojuegos con Unity             |
+|     🐳 Virtualización y contenedores con Docker y VirtualBox    |
+| 🔗 Control de versiones y trabajo colaborativo con Git y GitHub |
+|    🚀 Aprendizaje continuo y adaptación a nuevas tecnologías    |
+
+</div>
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -32,6 +46,7 @@ Soy un Desarrollador Junior enfocado en crear soluciones prácticas y seguir apr
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Frameworks y Tecnologías
@@ -66,24 +81,16 @@ Soy un Desarrollador Junior enfocado en crear soluciones prácticas y seguir apr
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge" />
 </p>
 
----
+
 
 ## 🎮 Desarrollo de Videojuegos
 
-**Programación con Unity**  
-Gametopia Learning — Octubre 2020
+**Programación con Unity** <br> 
+Gametopia Learning — Octubre 2020 
 
-**Iniciación a Unity**  
+**Iniciación a Unity** <br> 
 Gametopia Learning — Mayo 2020
 
----
-
-## 💼 Competencias
-
-✔ Desarrollo Web Frontend y Backend  
-✔ APIs REST y consumo de servicios web  
-✔ Gestión de bases de datos MySQL  
-✔ Desarrollo con Java y PHP  
-✔ Virtualización y contenedores (VirtualBox y Docker)  
-✔ Control de versiones con Git y GitHub  
-✔ Desarrollo de aplicaciones con React y Node.js
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" />
+</p>
