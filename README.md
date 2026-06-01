@@ -39,10 +39,9 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
 |                  ☕ Programación con Java, JavaScript, PHP y HTML |
 |       🗄️ Gestión y administración de bases de datos MySQL y PhpMyAdmin|
 |    ⚛️ Desarrollo de aplicaciones modernas con React y Node.js   |
-|              🎮 Desarrollo de videojuegos con Unity             |
 |     🐳 Virtualización y contenedores con Docker y VirtualBox    |
 | 🔗 Control de versiones y trabajo colaborativo con Git y GitHub |
-|    🚀 Aprendizaje continuo y adaptación a nuevas tecnologías    |
+|              🎮 Desarrollo de videojuegos con Unity             |
 
 </div>
 
@@ -91,15 +90,54 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge" />
 </p>
 
+## ⭐ Proyectos Destacados
+
+<div align="center">
+
+### 🐾 AdoptNow
+
+Aplicación para la adopción simbólica de animales, permitiendo contribuir a su preservación mediante donaciones económicas.
+
+#### ✨ Tareas realizadas
+
+🔐 Inicio de sesión, gestión de usuarios y cambio de contraseña<br>
+📧 Envío de correos electrónicos mediante Gmail y contraseñas de aplicación<br>
+📂 Subida de documentos en múltiples formatos / Generación y descarga de documentos PDF <br>
+🗃️ Operaciones CRUD <br>
+✅ Control visual del estado de adopción<br>
 
 
+<br>
+
+### 📊 Proyecto CRM
+
+Sistema orientado a la gestión empresarial y automatización de procesos.
+
+#### ✨ Tareas realizadas
+
+⚙️ Módulo de automatizaciones<br>
+📄 Gestor de documentos<br>
+📧 Integración del email<br>
+📞 Registro y emisión de llamadas
+
+### 🌐 Fix & Fit
+
+Mantenimiento, actualización y mejora de la web corporativa.
+
+#### ✨ Tareas realizadas
+
+🛠️ Corrección de errores y mantenimiento general<br>
+🎨 Mejoras visuales y de experiencia de usuario<br>
+📄 Actualización de contenidos<br>
+
+</div>
 
 ## 🎮 Desarrollo de Videojuegos
 
-**Programación con Unity** <br> 
+**Curso de Programación con Unity** <br> 
 Gametopia Learning — Octubre 2020 
 
-**Iniciación a Unity** <br> 
+**Curso de Iniciación a Unity** <br> 
 Gametopia Learning — Mayo 2020
 
 <p>
