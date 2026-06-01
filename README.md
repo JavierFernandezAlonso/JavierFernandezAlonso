@@ -10,6 +10,7 @@
 </div>
 
 
+
 ## 🚀 Sobre mí
 
 Soy un Desarrollador Junior enfocado en crear soluciones prácticas y seguir aprendiendo nuevas tecnologías cada día.
@@ -17,7 +18,9 @@ Soy un Desarrollador Junior enfocado en crear soluciones prácticas y seguir apr
 Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM), donde continúo ampliando mis conocimientos en programación, bases de datos, desarrollo de software y tecnologías orientadas al entorno profesional.
 
 
+
 ## 🧩 Áreas de Trabajo
+
 
 <div align="center">
 
@@ -27,8 +30,8 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
 |                 🌐 Desarrollo Frontend y Backend                |
 |      ⚡ Diseño e implementación de APIs REST y servicios web     |
 |              📱 Desarrollo de aplicaciones móviles              |
-|                  ☕ Programación con Java y PHP                  |
-|       🗄️ Gestión y administración de bases de datos MySQL      |
+|                  ☕ Programación con Java, JavaScript, PHP y HTML |
+|       🗄️ Gestión y administración de bases de datos MySQL y PhpMyAdmin|
 |    ⚛️ Desarrollo de aplicaciones modernas con React y Node.js   |
 |              🎮 Desarrollo de videojuegos con Unity             |
 |     🐳 Virtualización y contenedores con Docker y VirtualBox    |
@@ -73,6 +76,7 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
   <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -80,6 +84,7 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge" />
 </p>
+
 
 
 
