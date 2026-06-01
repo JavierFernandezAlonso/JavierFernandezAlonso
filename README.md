@@ -15,7 +15,7 @@
 
 </div>
 
-
+<br>
 
 ## 🚀 Sobre mí
 
@@ -23,7 +23,7 @@ Soy un Desarrollador Junior enfocado en crear soluciones prácticas y seguir apr
 
 Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM), donde continúo ampliando mis conocimientos en programación, bases de datos, desarrollo de software y tecnologías orientadas al entorno profesional.
 
-
+<br>
 
 ## 🧩 Áreas de Trabajo
 
@@ -44,6 +44,8 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
 |              🎮 Desarrollo de videojuegos con Unity             |
 
 </div>
+
+<br>
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -90,6 +92,8 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge" />
 </p>
 
+<br>
+
 ## ⭐ Proyectos Destacados
 
 <div align="center">
@@ -106,7 +110,6 @@ Aplicación para la adopción simbólica de animales, permitiendo contribuir a s
 🗃️ Operaciones CRUD <br>
 ✅ Control visual del estado de adopción<br>
 
-
 <br>
 
 ### 📊 Proyecto CRM
@@ -120,6 +123,8 @@ Sistema orientado a la gestión empresarial y automatización de procesos.
 📧 Integración del email<br>
 📞 Registro y emisión de llamadas
 
+<br>
+
 ### 🌐 Fix & Fit
 
 Mantenimiento, actualización y mejora de la web corporativa.
@@ -131,6 +136,8 @@ Mantenimiento, actualización y mejora de la web corporativa.
 📄 Actualización de contenidos<br>
 
 </div>
+
+<br>
 
 ## 🎮 Desarrollo de Videojuegos
 
