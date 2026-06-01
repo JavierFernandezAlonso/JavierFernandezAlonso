@@ -106,5 +106,4 @@ Gametopia Learning — Mayo 2020
   <img src="https://skillicons.dev/icons?i=unity" />
 </p>
 
-
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
