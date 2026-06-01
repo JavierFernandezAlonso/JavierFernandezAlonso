@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZING...;DEVELOPER+PROFILE+LOADING..." />
+
+</div>
+
+<div align="center">
+
   # ¡Hola! 👋 Soy Javier Fernández Alonso
 
 <div align="center">
@@ -99,3 +105,16 @@ Gametopia Learning — Mayo 2020
 <p>
   <img src="https://skillicons.dev/icons?i=unity" />
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400">
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
