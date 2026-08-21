@@ -32,13 +32,14 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
 
 |                                                                 |
 | :-------------------------------------------------------------: |
-|        💻 Desarrollo de aplicaciones web y de escritorio        |
+|        💻 Desarrollo de aplicaciones web y multiplataforma     |
 |                 🌐 Desarrollo Frontend y Backend                |
-|      ⚡ Diseño e implementación de APIs REST y servicios web     |
+|      ⚡ Diseño e implementación de APIs REST                    |
 |              📱 Desarrollo de aplicaciones móviles              |
-|                  ☕ Programación con Java, JavaScript, PHP y HTML |
+|                ☕ Programación con Java, JavaScript, PHP y HTML |
 |       🗄️ Gestión y administración de bases de datos MySQL y PhpMyAdmin|
-|    ⚛️ Desarrollo de aplicaciones modernas con React y Node.js   |
+|    ⚛️ Desarrollo de aplicaciones con React, React Native y Node.js|
+|         🧪 Desarrollo y ejecución de tests unitarios con JUnit  |
 |     🐳 Virtualización y contenedores con Docker y VirtualBox    |
 | 🔗 Control de versiones y trabajo colaborativo con Git y GitHub |
 |              🎮 Desarrollo de videojuegos con Unity             |
@@ -67,6 +68,12 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+### Testing
+
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
 ### Bases de Datos
