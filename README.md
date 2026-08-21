@@ -39,7 +39,7 @@ Actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Mult
 |                ☕ Programación con Java, JavaScript, PHP y HTML |
 |       🗄️ Gestión y administración de bases de datos MySQL y PhpMyAdmin|
 |    ⚛️ Desarrollo de aplicaciones con React, React Native y Node.js|
-|         🧪 Desarrollo y ejecución de tests unitarios con JUnit  |
+|         🧪 Desarrollo y ejecución de test unitarios con JUnit  |
 |     🐳 Virtualización y contenedores con Docker y VirtualBox    |
 | 🔗 Control de versiones y trabajo colaborativo con Git y GitHub |
 |              🎮 Desarrollo de videojuegos con Unity             |
